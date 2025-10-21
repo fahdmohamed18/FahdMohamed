@@ -1,52 +1,45 @@
-<h1 align="center">Hey there, I'm Fahd Mohamed 👋</h1>
+<h1 align="center">Hi 👋, I'm Fahd Mohamed</h1>
+<h3 align="center">Full Stack Developer | .NET | React | Next.js | Software Engineer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fahdmohamed18/"><img src="https://img.shields.io/badge/-Fahd%20Mohamed-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:fahdmohamed2223@gmail.com"><img src="https://img.shields.io/badge/-fahdmohamed2223@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/fahdmohamed18"><img src="https://img.shields.io/badge/-fahdmohamed18-black?style=flat&logo=GitHub&logoColor=white"/></a>
+---
+
+### 👨‍💻 About Me
+I'm a passionate **Full Stack Developer** who loves building modern, scalable, and user-friendly web applications.  
+My main focus is on the **.NET backend**, combined with rich and dynamic **React & Next.js** front-end experiences.  
+I enjoy turning complex ideas into functional, efficient, and elegant solutions.
+
+---
+
+### 🧠 Skills & Technologies
+- 💻 **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js  
+- ⚙️ **Backend:** .NET Core, C#, ASP.NET MVC, RESTful APIs, Entity Framework  
+- 🗄️ **Database:** SQL Server  
+- 🧰 **Tools:** Git, GitHub, Visual Studio, VS Code  
+- ☁️ **Others:** JWT Authentication, Payment Integration, Clean Architecture  
+
+---
+
+### 🚀 What I’m Working On
+- Building scalable **.NET backend systems**
+- Developing modern **Next.js / React** interfaces
+- Enhancing my skills to become a top-tier **Software Engineer**
+
+---
+
+### 🌍 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/fahdmohamed18" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/fahdmohamed18" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:fahdmohamed181@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 💫 About Me  
-🎓 I'm a **Computer and Information Student** at **Fayoum University**  
-💻 Passionate **Full-Stack Web Developer** specialized in **.NET & Angular**  
-🚀 Member of **Google Developer Student Clubs (GDSC)** as a Back-End Developer  
-🎯 My goal is to build scalable, high-quality web applications that make an impact  
-
----
-
-### 🛠️ Tech Stack  
-#### 💻 Languages & Frameworks  
-- C#, ASP.NET Core, Entity Framework  
-- Angular, TypeScript, JavaScript, HTML, CSS  
-- SQL Server, LINQ, REST APIs  
-
-#### ⚙️ Tools & Platforms  
-- Visual Studio, VS Code  
-- Git, GitHub, Postman  
-- Azure, Docker  
-
----
-
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahdmohamed18&show_icons=true&theme=radical" alt="Fahd's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahdmohamed18&theme=radical" height="160"/>
-</p>
-
----
-
-### 🐍 GitHub Snake Animation  
-<p align="center">
-  <img src="https://github.com/fahdmohamed18/fahdmohamed18/blob/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/fahdmohamed18/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:fahdmohamed2223@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/fahdmohamed18" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
-</p>
+### 🐍 GitHub Snake Animation
+![Snake animation](https://github.com/fahdmohamed18/fahdmohamed18/blob/output/snake.svg)
