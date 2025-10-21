@@ -3,39 +3,23 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahdmohamed18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&custom_title=My%20Status" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahdmohamed18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahdmohamed18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&custom_title=My%20Status" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahdmohamed18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&custom_title=Most%20Used%20Languages" height="150" alt="languages graph" />
   <img height="148" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJjc2hsdXdydnlheGVnNjk5d3hxZ2UwNnU4NGd1eWZkY3lvczIyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahdmohamed18&theme=dracula&no-frame=true&no-bg=true&title=Followers,Stars,Commits,Repositories,PullRequest" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fahdmohamed18&theme=flat&no-frame=true&no-bg=true&title=MultiLanguage,Commits,PullRequest,Followers,Repositories,Experience,Stars,Reviews&margin-w=15&margin-h=15&column=8&row=1&title_color=FF69B4" height="140" alt="trophy graph"/>
 </div>
-
-###
-
-<h3 align="center">💻 About Me</h3>
-
-<p align="center">
-  I'm a dedicated Full Stack Developer specialized in building modern, high-performance web applications using
-  <b>.NET</b> for the backend and <b>React.js</b> / <b>Next.js</b> for the frontend.  
-  Focused on designing scalable APIs, optimizing databases, and creating smooth, responsive user experiences.
-</p>
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
@@ -47,17 +31,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" height="40" alt="api icon" />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40" alt="database icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" height="40" alt="api logo" />
 </div>
 
 ###
@@ -83,5 +65,5 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/fahdmohamed18/fahdmohamed18/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/fahdmohamed18/fahdmohamed18/output/snake.svg" alt="Snake animation" />
 </div>
