@@ -3,7 +3,31 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahdmohamed18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20Status" height="150" alt="stats graph"/>
+  
+## 🚀 About Me
+
+I'm a **Full Stack Developer** specializing in building robust, scalable web applications with a strong focus on **Backend Development**.
+
+### 💼 What I Do
+
+🔹 **Backend Expertise**: Crafting high-performance RESTful APIs and microservices using **.NET Core**, **C#**, and **Entity Framework**  
+🔹 **Database Mastery**: Designing efficient databases with **SQL Server**, **PostgreSQL**, and **MongoDB**  
+🔹 **Frontend Excellence**: Creating responsive, modern UIs with **React**, **Next.js**, and **TypeScript**  
+🔹 **DevOps Ready**: Containerizing applications with **Docker** and optimizing performance with **Redis**  
+
+### 🎯 My Approach
+
+✨ Writing clean, maintainable code following **SOLID principles** and **Design Patterns**  
+✨ Building **scalable architectures** that grow with business needs  
+✨ Focusing on **performance optimization** and **security best practices**  
+✨ Continuously learning and adapting to new technologies  
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahdmohamed18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20Stats" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahdmohamed18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
   <img height="148" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJjc2hsdXdydnlheGVnNjk5d3hxZ2UwNnU4NGd1eWZkY3lvczIyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" />
   <img src="https://github-profile-trophy.vercel.app?username=fahdmohamed18&theme=dracula&no-frame=true&no-bg=true&title=-Issues" height="150" alt="trophy graph"/>
