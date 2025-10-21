@@ -1,73 +1,144 @@
-<h2 align="center">Hi 👋! My name is Fahd Mohamed and I'm a passionate Full Stack Developer from Egypt</h2><h2 align="center">Hi 👋! My name is Fahd Mohamed and I'm a passionate Full Stack Developer from Egypt</h2>
+<h2 align="center">Hi 👋! My name is Fahd Mohamed and I'm a passionate Full Stack Developer from Egypt</h2><h2 align="center">Hi 👋! My name is Fahd Mohamed and I'm a passionate Full Stack Developer from Egypt</h2><h2 align="center">Hi 👋! My name is Fahd Mohamed and I'm a passionate Full Stack Developer from Egypt</h2>
 
 
 
-######
+###
 
 
 
-<p align="center"><div align="center">
+<div align="center">######
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%F0%9F%9A%80;Backend+Specialist+%F0%9F%92%BB;Building+Scalable+Solutions+%E2%9C%A8" alt="Typing SVG" />  <img width="45%" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd4cG1wcnRwcmJsNGQ3M2wzNnAwcjNyNG1ldmtoZGMzNmtvYndoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahdmohamed18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20Stats" height="150" alt="stats graph"/>
 
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahdmohamed18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 
-  <div align="left" style="width: 50%">
+  <img height="148" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJjc2hsdXdydnlheGVnNjk5d3hxZ2UwNnU4NGd1eWZkY3lvczIyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" />
 
-<div align="center">    
+  <img src="https://github-profile-trophy.vercel.app?username=fahdmohamed18&theme=dracula&no-frame=true&no-bg=true&title=-Issues" height="150" alt="trophy graph"/><p align="center"><div align="center">
 
-  ### �‍💻 About Me
+  
 
-### 💫 About Me
-
-```javascript
-
-🎯 **Passionate Full Stack Developer** from Egypt, specialized in **Backend Development**  const fahd = {
-
-    role: "Full Stack Developer",
-
-💼 Building robust and scalable web applications using **.NET Core** & **React**      location: "Egypt 🇪🇬",
-
-    focus: "Backend Development",
-
-🛠️ Experienced in designing **RESTful APIs** and **Database Architecture**      
-
-    code: ["C#", "JavaScript", "TypeScript"],
-
-🌱 Always learning new technologies and best practices      technologies: {
-
-        backend: [".NET Core", "Entity Framework", "RESTful APIs"],
-
-⚡ Love turning complex problems into simple, beautiful solutions          frontend: ["React", "Next.js", "Redux"],
-
-        databases: ["SQL Server", "PostgreSQL", "MongoDB"],
-
-</div>        tools: ["Docker", "Redis", "Git"]
-
-    },
-
-###    
-
-    currentFocus: "Building scalable web applications",
-
-<div align="center">    philosophy: "Clean code is not written by following rules,
-
-  <img src="https://github-readme-stats.vercel.app/api?username=fahdmohamed18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20Stats" height="150" alt="stats graph"/>                 it's written with passion and dedication"
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahdmohamed18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />};
-
-  <img height="148" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJjc2hsdXdydnlheGVnNjk5d3hxZ2UwNnU4NGd1eWZkY3lvczIyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" />```
-
-  <img src="https://github-profile-trophy.vercel.app?username=fahdmohamed18&theme=dracula&no-frame=true&no-bg=true&title=-Issues" height="150" alt="trophy graph"/>
-
-    </div>
-
-</div></div>
+</div>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%F0%9F%9A%80;Backend+Specialist+%F0%9F%92%BB;Building+Scalable+Solutions+%E2%9C%A8" alt="Typing SVG" />  <img width="45%" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd4cG1wcnRwcmJsNGQ3M2wzNnAwcjNyNG1ldmtoZGMzNmtvYndoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
 
-###<br clear="both">
+###</p>  
 
+
+
+<div align="center">  <div align="left" style="width: 50%">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+
+  <img width="12" /><div align="center">    
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet logo" />
+
+  <img width="12" />  ### �‍💻 About Me
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo" />
+
+  <img width="12" />### 💫 About Me
+
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+
+  <img width="12" />```javascript
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+
+  <img width="12" />🎯 **Passionate Full Stack Developer** from Egypt, specialized in **Backend Development**  const fahd = {
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+
+  <img width="12" />    role: "Full Stack Developer",
+
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+
+  <img width="12" />💼 Building robust and scalable web applications using **.NET Core** & **React**      location: "Egypt 🇪🇬",
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+
+  <img width="12" />    focus: "Backend Development",
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+
+  <img width="12" />🛠️ Experienced in designing **RESTful APIs** and **Database Architecture**      
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+
+  <img width="12" />    code: ["C#", "JavaScript", "TypeScript"],
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+
+  <img width="12" />🌱 Always learning new technologies and best practices      technologies: {
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
+
+  <img width="12" />        backend: [".NET Core", "Entity Framework", "RESTful APIs"],
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
+
+  <img width="12" />⚡ Love turning complex problems into simple, beautiful solutions          frontend: ["React", "Next.js", "Redux"],
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+
+  <img width="12" />        databases: ["SQL Server", "PostgreSQL", "MongoDB"],
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+
+  <img width="12" /></div>        tools: ["Docker", "Redis", "Git"]
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+
+</div>    },
+
+
+
+######    
+
+
+
+<div align="center">    currentFocus: "Building scalable web applications",
+
+  <a href="https://www.linkedin.com/in/fahd-mohamed-mahmoud" target="_blank">
+
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="35" alt="linkedin logo" /><div align="center">    philosophy: "Clean code is not written by following rules,
+
+  </a>
+
+  <a href="https://codeforces.com/profile/Fahood" target="_blank">  <img src="https://github-readme-stats.vercel.app/api?username=fahdmohamed18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=My%20Stats" height="150" alt="stats graph"/>                 it's written with passion and dedication"
+
+    <img src="https://img.shields.io/static/v1?message=CodeForces&logo=codeforces&label=&color=1C97D3&logoColor=white&style=flat" height="35" alt="codeforces logo" />
+
+  </a>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahdmohamed18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />};
+
+  <a href="https://leetcode.com/u/fahdmohamed18/" target="_blank">
+
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=5C5C5C&style=flat" height="35" alt="leetcode logo" />  <img height="148" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJjc2hsdXdydnlheGVnNjk5d3hxZ2UwNnU4NGd1eWZkY3lvczIyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" />```
+
+  </a>
+
+  <a href="mailto:fm1823@fayoum.edu.eg" target="_blank">  <img src="https://github-profile-trophy.vercel.app?username=fahdmohamed18&theme=dracula&no-frame=true&no-bg=true&title=-Issues" height="150" alt="trophy graph"/>
+
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat" height="35" alt="gmail logo" />
+
+  </a>    </div>
+
+  <a href="https://www.facebook.com/fahdkholy66" target="_blank">
+
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=flat" height="35" alt="facebook logo" /></div></div>
+
+  </a>
+
+</div>
+
+
+
+######<br clear="both">
+
+
+
+<img src="https://raw.githubusercontent.com/fahdmohamed18/FahdMohamed/output/snake.svg" alt="Snake animation" />
 
 
 <div align="center">###
