@@ -3,26 +3,36 @@
 ###
 
 <div align="center">
+  <img width="45%" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzd4cG1wcnRwcmJsNGQ3M2wzNnAwcjNyNG1ldmtoZGMzNmtvYndoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
   
-## 🚀 About Me
+  <div align="left" style="width: 50%">
+    
+### �‍💻 About Me
 
-I'm a **Full Stack Developer** specializing in building robust, scalable web applications with a strong focus on **Backend Development**.
+```javascript
+const fahd = {
+    role: "Full Stack Developer",
+    location: "Egypt 🇪🇬",
+    focus: "Backend Development",
+    
+    code: ["C#", "JavaScript", "TypeScript"],
+    technologies: {
+        backend: [".NET Core", "Entity Framework", "RESTful APIs"],
+        frontend: ["React", "Next.js", "Redux"],
+        databases: ["SQL Server", "PostgreSQL", "MongoDB"],
+        tools: ["Docker", "Redis", "Git"]
+    },
+    
+    currentFocus: "Building scalable web applications",
+    philosophy: "Clean code is not written by following rules,
+                 it's written with passion and dedication"
+};
+```
 
-### 💼 What I Do
-
-🔹 **Backend Expertise**: Crafting high-performance RESTful APIs and microservices using **.NET Core**, **C#**, and **Entity Framework**  
-🔹 **Database Mastery**: Designing efficient databases with **SQL Server**, **PostgreSQL**, and **MongoDB**  
-🔹 **Frontend Excellence**: Creating responsive, modern UIs with **React**, **Next.js**, and **TypeScript**  
-🔹 **DevOps Ready**: Containerizing applications with **Docker** and optimizing performance with **Redis**  
-
-### 🎯 My Approach
-
-✨ Writing clean, maintainable code following **SOLID principles** and **Design Patterns**  
-✨ Building **scalable architectures** that grow with business needs  
-✨ Focusing on **performance optimization** and **security best practices**  
-✨ Continuously learning and adapting to new technologies  
-
+  </div>
 </div>
+
+<br clear="both">
 
 ###
 
