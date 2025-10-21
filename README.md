@@ -42,4 +42,4 @@ I enjoy turning complex ideas into functional, efficient, and elegant solutions.
 ---
 
 ### 🐍 GitHub Snake Animation
-![Snake animation](https://github.com/fahdmohamed18/fahdmohamed18/blob/output/snake.svg)
+<img src="https://github.com/fahdmohamed18/fahdmohamed18/blob/output/snake.svg" alt="Snake animation" />
