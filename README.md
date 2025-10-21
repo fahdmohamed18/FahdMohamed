@@ -1,45 +1,72 @@
-<h1 align="center">Hi 👋, I'm Fahd Mohamed</h1>
-<h3 align="center">Full Stack Developer | .NET | React | Next.js | Software Engineer</h3>
+<h2 align="center">Hi 👋! My name is Fahd Mohamed and I'm a passionate Full Stack Developer from Egypt</h2>
 
----
+###
 
-### 👨‍💻 About Me
-I'm a passionate **Full Stack Developer** who loves building modern, scalable, and user-friendly web applications.  
-My main focus is on the **.NET backend**, combined with rich and dynamic **React & Next.js** front-end experiences.  
-I enjoy turning complex ideas into functional, efficient, and elegant solutions.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahdmohamed18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&custom_title=My%20Status" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahdmohamed18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true" height="150" alt="languages graph" />
+  <img height="148" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJjc2hsdXdydnlheGVnNjk5d3hxZ2UwNnU4NGd1eWZkY3lvczIyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" />
+  <img src="https://github-profile-trophy.vercel.app?username=fahdmohamed18&theme=flat&no-frame=true&no-bg=true&title=Followers,Stars,Commit,Repositories,PullRequest" height="150" alt="trophy graph" />
+</div>
 
----
+###
 
-### 🧠 Skills & Technologies
-- 💻 **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js  
-- ⚙️ **Backend:** .NET Core, C#, ASP.NET MVC, RESTful APIs, Entity Framework  
-- 🗄️ **Database:** SQL Server  
-- 🧰 **Tools:** Git, GitHub, Visual Studio, VS Code  
-- ☁️ **Others:** JWT Authentication, Payment Integration, Clean Architecture  
+<h3 align="center">💻 About Me</h3>
 
----
-
-### 🚀 What I’m Working On
-- Building scalable **.NET backend systems**
-- Developing modern **Next.js / React** interfaces
-- Enhancing my skills to become a top-tier **Software Engineer**
-
----
-
-### 🌍 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/fahdmohamed18" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/fahdmohamed18" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:fahdmohamed181@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="center">
+  I'm a dedicated Full Stack Developer specialized in building modern web applications using
+  <b>.NET</b> for backend and <b>React.js</b> & <b>Next.js</b> for frontend.
+  Passionate about clean architecture, scalable APIs, and delivering efficient, user-focused solutions.
 </p>
 
----
+###
 
-### 🐍 GitHub Snake Animation
-<img src="https://github.com/fahdmohamed18/fahdmohamed18/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="reactjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/fahd-mohamed-mahmoud" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://codeforces.com/profile/Fahood" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeForces&logo=codeforces&label=&color=1C97D3&logoColor=white&style=flat" height="35" alt="codeforces logo" />
+  </a>
+  <a href="https://leetcode.com/u/fahdmohamed18/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=5C5C5C&style=flat" height="35" alt="leetcode logo" />
+  </a>
+  <a href="mailto:fm1823@fayoum.edu.eg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.facebook.com/fahdkholy66" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=flat" height="35" alt="facebook logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github.com/fahdmohamed18/fahdmohamed18/blob/output/snake.svg" alt="Snake animation" />
+</div>
